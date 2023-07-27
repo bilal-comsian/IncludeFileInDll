@@ -1,0 +1,15 @@
+C:\Users\bah\source\repos\IncludeFileInDll\IncludeFileInDll\bin\Debug\net6.0\IncludeFileInDll.exe
+C:\Users\bah\source\repos\IncludeFileInDll\IncludeFileInDll\bin\Debug\net6.0\IncludeFileInDll.deps.json
+C:\Users\bah\source\repos\IncludeFileInDll\IncludeFileInDll\bin\Debug\net6.0\IncludeFileInDll.runtimeconfig.json
+C:\Users\bah\source\repos\IncludeFileInDll\IncludeFileInDll\bin\Debug\net6.0\IncludeFileInDll.dll
+C:\Users\bah\source\repos\IncludeFileInDll\IncludeFileInDll\bin\Debug\net6.0\ref\IncludeFileInDll.dll
+C:\Users\bah\source\repos\IncludeFileInDll\IncludeFileInDll\bin\Debug\net6.0\IncludeFileInDll.pdb
+C:\Users\bah\source\repos\IncludeFileInDll\IncludeFileInDll\obj\Debug\net6.0\IncludeFileInDll.csproj.AssemblyReference.cache
+C:\Users\bah\source\repos\IncludeFileInDll\IncludeFileInDll\obj\Debug\net6.0\IncludeFileInDll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bah\source\repos\IncludeFileInDll\IncludeFileInDll\obj\Debug\net6.0\IncludeFileInDll.AssemblyInfoInputs.cache
+C:\Users\bah\source\repos\IncludeFileInDll\IncludeFileInDll\obj\Debug\net6.0\IncludeFileInDll.AssemblyInfo.cs
+C:\Users\bah\source\repos\IncludeFileInDll\IncludeFileInDll\obj\Debug\net6.0\IncludeFileInDll.csproj.CoreCompileInputs.cache
+C:\Users\bah\source\repos\IncludeFileInDll\IncludeFileInDll\obj\Debug\net6.0\IncludeFileInDll.dll
+C:\Users\bah\source\repos\IncludeFileInDll\IncludeFileInDll\obj\Debug\net6.0\ref\IncludeFileInDll.dll
+C:\Users\bah\source\repos\IncludeFileInDll\IncludeFileInDll\obj\Debug\net6.0\IncludeFileInDll.pdb
+C:\Users\bah\source\repos\IncludeFileInDll\IncludeFileInDll\obj\Debug\net6.0\IncludeFileInDll.genruntimeconfig.cache
